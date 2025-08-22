@@ -57,7 +57,7 @@ console.log('--- Chaves RSA ---');
 console.log('p =', keys.p);
 console.log('q =', keys.q);
 console.log('n =', keys.n);
-console.log('phi =', keys.t);
+console.log('t =', keys.t);
 console.log('e =', keys.e);
 console.log('d =', keys.d);
 
